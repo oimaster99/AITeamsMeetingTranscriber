@@ -1,0 +1,4 @@
+Alice: We need to complete the UI by Friday.
+Bob: I'll handle the backend integration.
+Alice: Great. We'll test everything next Monday.
+Bob: I'll have the API completed by Thursday.
