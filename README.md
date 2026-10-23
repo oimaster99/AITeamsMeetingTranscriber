@@ -1,6 +1,5 @@
-git add .
-git commit -m "Initial Llama 3.2 integration"
+AI Powered Teams Meeting Summarizer Application
 
-git remote add origin https://github.com/YOUR_USERNAME/Meeting-AI-Assistant.git
-
-git push -u origin main
+REQUIREMENTS:
+ollama
+llama3.2
