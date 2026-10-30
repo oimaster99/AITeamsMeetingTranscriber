@@ -2,7 +2,6 @@ from pathlib import Path
 import sys
 from ollama import chat
 
-
 def summarize_meeting(transcript):
     response = chat(
         model="llama3.2",

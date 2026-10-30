@@ -1,0 +1,17 @@
+Here is a summary of the meeting:
+
+**Meeting Summary**
+A meeting was held to discuss the UI completion and backend integration for a project. Alice and Bob discussed their respective tasks and timelines, with Alice requesting completion by Friday and Bob committing to handle the backend integration by Thursday.
+
+**Key Decisions**
+- UI completion is required by Friday.
+- Backend integration will be handled by Bob by Thursday.
+- Testing will be done next Monday.
+
+**Action Items**
+- Alice: Complete UI by Friday.
+- Bob: Complete backend integration by Thursday.
+
+**Next Steps**
+- Continue working on UI and backend integration tasks.
+- Test the completed UI and backend integration next Monday.
