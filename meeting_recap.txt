@@ -1,0 +1,12 @@
+sample_transcript
+Date: Not provided
+Purpose / agenda: Not provided
+Attendees: Not provided
+
+QUICK SUMMARY
+Alice and Bob discussed the project timeline. They agreed on a UI completion by Friday and Bob will handle backend integration. Bob will also complete the API by Thursday and they will test everything next Monday.
+
+ACTION ITEMS
+- Alice: UI completion by Friday
+- Bob: Backend integration and API completion by Thursday
+- Next Monday: Testing and shipping
