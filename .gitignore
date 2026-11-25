@@ -6,3 +6,5 @@ transcripts/
 outputs/
 *.wav
 *.mp3
+meetings.db*
+meetings.json
