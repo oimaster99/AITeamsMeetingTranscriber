@@ -1,8 +1,13 @@
 .venv/
 __pycache__/
+build/
+dist/
 .env
+*.spec
 recordings/
 transcripts/
 outputs/
 *.wav
 *.mp3
+meetings.db*
+meetings.json
